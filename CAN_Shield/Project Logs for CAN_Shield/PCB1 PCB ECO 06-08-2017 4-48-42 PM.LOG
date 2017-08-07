@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetJ1_5
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetP?_4 New Net Name=NetP2_4
+Change Net Name : Old Net Name=NetP?_6 New Net Name=NetP2_6
+Added Member To Class: ClassName=Main Member=Component P1 Breakaway Header 10x1
+Added Room: Name=Main
+Added Room: Name=U_Connector
+Added Room: Name=U_Transeiver
