@@ -1,0 +1,33 @@
+Added Component: Designator=TP1(TEST POINT 5000K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040" (1.02mm) Hole Diameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5000-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point, Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TEST POINT 5000K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040" (1.02mm) Hole Diameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5000-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point, Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TEST POINT 5000K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040" (1.02mm) Hole Diameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5000-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point, Miniature"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TEST POINT 5000K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040" (1.02mm) Hole Diameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5000-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point, Miniature"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_TX Pin=TP1-1
+Added Pin To Net: NetName=NetU4_3 Pin=TP2-1
+Added Pin To Net: NetName=3V3 Pin=TP3-1
+Added Pin To Net: NetName=5V Pin=TP4-1
+Change Net Name : Old Net Name=NetU4_3 New Net Name=NetTP2_1
+Added Member To Class: ClassName=Main Member=Component TP1 Keystone Electronics 5000
+Added Member To Class: ClassName=Main Member=Component TP2 Keystone Electronics 5000
+Added Member To Class: ClassName=Main Member=Component TP3 Keystone Electronics 5000
+Added Member To Class: ClassName=Main Member=Component TP4 Keystone Electronics 5000

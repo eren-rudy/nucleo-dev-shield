@@ -1,0 +1,15 @@
+Added Component: Designator=VR1(PTA1543-2010CIB103)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.05W, 1/20W Through Hole Slide Potentiometer Top Adjustment Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fader Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.05W, 1/20W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PTA1543-2010CIB103-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Travel Range"; Value = "15mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=VR1-1
+Added Pin To Net: NetName=NetP2_36 Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Member To Class: ClassName=U_INPUTS Member=Component VR1 PTA1543-2010CIB103
