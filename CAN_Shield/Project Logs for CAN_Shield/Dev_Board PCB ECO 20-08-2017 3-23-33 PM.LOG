@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=TP3
+Change Component Designator: OldDesignator=5V NewDesignator=TP4
+Change Component Designator: OldDesignator=CLK NewDesignator=TP2
+Change Component Designator: OldDesignator=TX NewDesignator=TP1
+Added Component: Designator=TP5(TEST POINT 5000K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.040" (1.02mm) Hole Diameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5000-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point, Miniature"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP5-1
+Added Member To Class: ClassName=Main Member=Component TP5 Keystone Electronics 5000
