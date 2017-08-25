@@ -208,7 +208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XNVBGHNS
 
 [Document11]
-DocumentPath=Dev_Board_Rev2.PcbDoc
+DocumentPath=Dev_Board_Rev3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

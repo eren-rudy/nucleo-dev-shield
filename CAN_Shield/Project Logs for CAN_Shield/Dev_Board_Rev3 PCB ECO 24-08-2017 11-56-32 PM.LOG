@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=BUTTON_1 Pin=B1-3
+Removed Pin From Net: NetName=BUTTON_1 Pin=B1-4
+Removed Pin From Net: NetName=BUTTON_2 Pin=B2-3
+Removed Pin From Net: NetName=BUTTON_2 Pin=B2-4
+Removed Member From Class: ClassName=Main Member=D4
+Change Component Designator: OldDesignator=3V3 NewDesignator=TP3
+Change Component Designator: OldDesignator=5V NewDesignator=TP4
+Change Component Designator: OldDesignator=CLK NewDesignator=TP2
+Change Component Designator: OldDesignator=GND NewDesignator=TP5
+Change Component Designator: OldDesignator=R TERM NewDesignator=R16
+Change Component Designator: OldDesignator=TX NewDesignator=TP1
+Added Component: Designator=D5(SOTFL50P160X60-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Current - Peak Pulse (10/1000µs)"; Value = "2A (8/20µs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOT-553"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Line Protection"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "F2894CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unidirectional Cahnnels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown (Min)"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Clamping (Max) @ Ipp"; Value = "13V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Reverse Standoff (Typ)"; Value = "5.5V (Max)"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Ohms)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-100CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=BUTTON_2 Pin=D5-4
+Added Pin To Net: NetName=BUTTON_1 Pin=D5-5
+Added Pin To Net: NetName=BUTTON_1 Pin=R21-2
+Added Pin To Net: NetName=BUTTON_2 Pin=R22-2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=B1-4
+Added Pin To Net: NetName=NetB1_3 Pin=R21-1
+Added Net: Name=NetB1_3
+Added Pin To Net: NetName=NetB2_3 Pin=B2-3
+Added Pin To Net: NetName=NetB2_3 Pin=B2-4
+Added Pin To Net: NetName=NetB2_3 Pin=R22-1
+Added Net: Name=NetB2_3
+Change Class Name : Old Net Name=Components Class 7 New Net Name=U_GYRO
+Added Member To Class: ClassName=U_INPUTS Member=Component D5 SP1001-02XTG
+Added Member To Class: ClassName=U_INPUTS Member=Component R21 RC0805FR-07100RL
+Added Member To Class: ClassName=U_INPUTS Member=Component R22 RC0805FR-07100RL
+Added Member To Class: ClassName=Main Member=Component TP1 Keystone Electronics 5000
+Change Room Scope: Old Scope=InComponentClass('Components Class 7') New Scope=InComponentClass('U_GYRO')
+Added Room: Name=Main
+Added Room: Name=U_555_OSC
+Added Room: Name=U_D-FLIP-FLOP
+Added Room: Name=U_Transeiver
