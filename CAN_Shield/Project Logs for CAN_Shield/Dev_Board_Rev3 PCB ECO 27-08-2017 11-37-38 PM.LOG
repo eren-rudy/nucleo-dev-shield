@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=BUTTON_1 Pin=C11-1
+Removed Pin From Net: NetName=BUTTON_2 Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=BUTTON_1 Pin=P2-16
+Removed Pin From Net: NetName=BUTTON_2 Pin=P2-18
+Removed Pin From Net: NetName=BUTTON_1 Pin=R17-2
+Removed Pin From Net: NetName=BUTTON_2 Pin=R19-2
+Change Component Footprint: Designator=D5 Old Footprint=SOTFL50P160X60-5N New Footprint=SOT95P280X145-5N
+Change Component Comment : Designator=D5 Old Comment=SP1001-02XTG New Comment=RCLAMP3354S.TCT
+Change component parameters: Designator = "D5"; Footprint = "SOT95P280X145-5N"; UniqueID = "\QUAAQXYD\UBANNHOM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RCLAMP3354STCTCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RE_A Pin=C11-1
+Added Pin To Net: NetName=RE_A Pin=D5-1
+Added Pin To Net: NetName=RE_A Pin=P2-16
+Added Pin To Net: NetName=RE_A Pin=R17-2
+Added Net: Name=RE_A
+Added Pin To Net: NetName=RE_B Pin=C12-2
+Added Pin To Net: NetName=RE_B Pin=D5-3
+Added Pin To Net: NetName=RE_B Pin=P2-18
+Added Pin To Net: NetName=RE_B Pin=R19-2
+Added Net: Name=RE_B

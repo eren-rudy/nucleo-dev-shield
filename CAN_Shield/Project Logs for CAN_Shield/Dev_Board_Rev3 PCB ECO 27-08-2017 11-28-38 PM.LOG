@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=TP3
+Change Component Designator: OldDesignator=5V NewDesignator=TP4
+Change Component Designator: OldDesignator=CLK NewDesignator=TP2
+Change Component Designator: OldDesignator=GND NewDesignator=TP5
+Change Component Designator: OldDesignator=R_TERM NewDesignator=R16
+Change Component Designator: OldDesignator=TX NewDesignator=TP1
+Added Pin To Net: NetName=BUTTON_1 Pin=C11-1
+Added Pin To Net: NetName=BUTTON_2 Pin=C12-2
+Added Pin To Net: NetName=BUTTON_1 Pin=P2-16
+Added Pin To Net: NetName=BUTTON_2 Pin=P2-18
+Added Pin To Net: NetName=BUTTON_1 Pin=R17-2
+Added Pin To Net: NetName=BUTTON_2 Pin=R19-2
+Change Class Name : Old Net Name=Components Class 1 New Net Name=Main
+Added Member To Class: ClassName=Main Member=Component P1 Female Header 20x2_BOTTOM
+Added Member To Class: ClassName=Main Member=Component P2 Female Header 20x2_BOTTOM
+Added Member To Class: ClassName=U_Connector Member=Component R16 DNP
+Added Room: Name=Main
+Added Room: Name=U_555_OSC
+Added Room: Name=U_D-FLIP-FLOP
+Added Room: Name=U_Transeiver
