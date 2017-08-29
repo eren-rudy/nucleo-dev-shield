@@ -208,7 +208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XNVBGHNS
 
 [Document11]
-DocumentPath=Dev_Board_Rev3.PcbDoc
+DocumentPath=Dev_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,7 +225,24 @@ GenerateClassCluster=0
 DocumentUniqueId=CVHWXSFF
 
 [Document12]
-DocumentPath=Dev_Board.PcbDoc
+DocumentPath=Dev_Board_Rev3.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CVHWXSFF
+
+[Document13]
+DocumentPath=Dev_Board_Rev4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
