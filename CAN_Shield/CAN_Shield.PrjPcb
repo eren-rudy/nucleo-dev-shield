@@ -242,7 +242,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CVHWXSFF
 
 [Document13]
-DocumentPath=Dev_Board_Rev4.PcbDoc
+DocumentPath=Dev_Board_Rev5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
