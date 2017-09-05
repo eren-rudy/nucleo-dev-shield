@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=TP3
+Change Component Designator: OldDesignator=5V NewDesignator=TP4
+Change Component Designator: OldDesignator=CLK NewDesignator=TP2
+Change Component Designator: OldDesignator=GND NewDesignator=TP5
+Change Component Designator: OldDesignator=R_TERM NewDesignator=R16
+Change Component Designator: OldDesignator=TX NewDesignator=TP1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Room: Name=Main
+Added Room: Name=U_555_OSC
+Added Room: Name=U_D-FLIP-FLOP
+Added Room: Name=U_Transeiver
