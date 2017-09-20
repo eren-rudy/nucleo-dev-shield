@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Dev_Board_Rev5.PcbDoc   20/09/2017  10:03:28 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Dev_Board_Rev5.TXT
+ASCII RectHoles File : Dev_Board_Rev5-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             20        PTH        6.67inch (169.45mm)
+T2      35mil (0.889mm)                                           Round             80        PTH        13.30inch (337.81mm)
+T3      39mil (0.991mm)                                           Round             3         PTH        0.20inch (5.00mm)
+T4      40mil (1.016mm)                                           Round             5         PTH        0.60inch (15.20mm)
+T5      43mil (1.092mm)                                           Round             8         PTH        1.75inch (44.33mm)
+T6      47mil (1.194mm)                                           Round             8         PTH        3.51inch (89.08mm)
+T7      55mil (1.397mm)                                           Round             5         PTH        0.53inch (13.55mm)
+T8      67mil (1.702mm)                                           Round             4         PTH        1.37inch (34.77mm)
+T9      70mil (1.778mm)                                           Round             4         PTH        0.89inch (22.71mm)
+T10     71mil (1.803mm)                                           Rectangle         2         PTH        0.87inch (22.01mm)
+T11     79mil (2.007mm)                                           Rectangle         2         NPTH       0.93inch (23.62mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              141
+
+Total Processing Time (hh:mm:ss) : 00:00:00

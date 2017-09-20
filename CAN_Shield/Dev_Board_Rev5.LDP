@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Program Files (xtra)\all\Formula Electric\Electrical\research-and-development\CAN_Shield\Dev_Board_Rev5.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dev_board_rev5.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=dev_board_rev5-rectholes.txt|DrillLayers=gtl,gbl
