@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Program Files (xtra)\all\Formula Electric\Electrical\research-and-development\CAN_Shield\Dev_Board_Rev5.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
